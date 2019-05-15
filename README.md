@@ -17,41 +17,45 @@ Your turn:
 Line: 4
 Matches: 2
 Player removed 2 match(es) from line 4
-*********
-*   |   *
-*  |||  *
-* ||||| *
-*|||||  *
-*********
+
+      *********
+      *   |   *
+      *  |||  *
+      * ||||| *
+      *|||||  *
+      *********
 
 AI's turn...
 AI removed 2 match(es) from line 3
-*********
-*   |   *
-*  |||  *
-* |||   *
-*|||||  *
-*********
+
+      *********
+      *   |   *
+      *  |||  *
+      * |||   *
+      *|||||  *
+      *********
 
 Your turn:
 Line: 1
 Matches: 1
 Player removed 1 match(es) from line 1
-*********
-*       *
-*  |||  *
-* |||   *
-*|||||  *
-*********
+
+      *********
+      *       *
+      *  |||  *
+      * |||   *
+      *|||||  *
+      *********
 
 AI's turn...
 AI removed 1 match(es) from line 2
-*********
-*       *
-*  ||   *
-* |||   *
-*|||||  *
-*********
+
+      *********
+      *       *
+      *  ||   *
+      * |||   *
+      *|||||  *
+      *********
 
 Your turn:
 Line: 12
@@ -59,21 +63,23 @@ Error: this line is out of range
 Line: 2
 Matches: 2
 Player removed 2 match(es) from line 2
-*********
-*       *
-*       *
-* |||   *
-*|||||  *
-*********
+
+      *********
+      *       *
+      *       *
+      * |||   *
+      *|||||  *
+      *********
 
 AI's turn...
 AI removed 2 match(es) from line 4
-*********
-*       *
-*       *
-* |||   *
-*|||    *
-*********
+
+      *********
+      *       *
+      *       *
+      * |||   *
+      *|||    *
+      *********
 
 Your turn:
 Line: 4
@@ -82,41 +88,45 @@ Error: you cannot remove more than 5 matches per turn
 Line: 3
 Matches: 1
 Player removed 1 match(es) from line 3
-*********
-*       *
-*       *
-* ||    *
-*|||    *
-*********
+
+      *********
+      *       *
+      *       *
+      * ||    *
+      *|||    *
+      *********
 
 AI's turn...
 AI removed 2 match(es) from line 3
-*********
-*       *
-*       *
-*       *
-*|||    *
-*********
+
+      *********
+      *       *
+      *       *
+      *       *
+      *|||    *
+      *********
 
 Your turn:
 Line: 4
 Matches: 2
 Player removed 2 match(es) from line 4
-*********
-*       *
-*       *
-*       *
-*|      *
-*********
+
+      *********
+      *       *
+      *       *
+      *       *
+      *|      *
+      *********
 
 AI's turn...
 AI removed 1 match(es) from line 4
-*********
-*       *
-*       *
-*       *
-*       *
-*********
+
+      *********
+      *       *
+      *       *
+      *       *
+      *       *
+      *********
 I lost... snif... but I'll get you next time!!
 $> echo $?
 1
@@ -124,35 +134,39 @@ $> echo $?
 
 ~~~~~
 $> ./matchstick 2 10
-*****
-* | *
-*|||*
-*****
+
+      *****
+      * | *
+      *|||*
+      *****
 
 Your turn:
 Line: 1
 Matches: 1
 Player removed 1 match(es) from line 1
-*****
-*   *
-*|||*
-*****
+
+      *****
+      *   *
+      *|||*
+      *****
 
 AI's turn...
 AI removed 2 match(es) from line 2
-*****
-*   *
-*|  *
-*****
+
+      *****
+      *   *
+      *|  *
+      *****
 
 Your turn:
 Line: 2
 Matches: 1
 Player removed 1 match(es) from line 2
-*****
-*   *
-*   *
-*****
+
+      *****
+      *   *
+      *   *
+      *****
 You lost, too bad...
 $> echo $?
 2
@@ -160,10 +174,11 @@ $> echo $?
 
 
 $> ./matchstick 2 5
-*****
-* | *
-*|||*
-*****
+
+      *****
+      * | *
+      *|||*
+      *****
 
 Your turn:
 Line: 0
@@ -174,10 +189,11 @@ Line: $> echo $?
 
 
 $> ./matchstick 2 5
-*****
-* | *
-*|||*
-*****
+
+      *****
+      * | *
+      *|||*
+      *****
 
 Your turn:
 Line: aze
@@ -186,10 +202,10 @@ Line: 2
 
 ...
 
-*****
-* | *
-*|  *
-*****
+      *****
+      * | *
+      *|  *
+      *****
 
 Your turn:
 Line: 1
