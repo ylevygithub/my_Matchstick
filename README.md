@@ -5,6 +5,7 @@ Play against an IA in this game
 Utilisation :
 
 $> ./matchstick 4 5
+
     *********
     *   |   *
     *  |||  *
